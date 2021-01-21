@@ -9,7 +9,7 @@ package com.test;
 public class Apple {
     //我建立一个main方法，可还行？
     public static void main(String[] args) {
-        String str ="git测试一下";
+        String str ="git测试两下";
         System.out.println(str);
     }
 
